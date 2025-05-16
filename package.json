@@ -1,0 +1,54 @@
+{
+  "name": "laravel-pack-by-novato-pro",
+  "publisher": "JhordyBarrera",
+  "displayName": "Laravel Pack by Jhordy Barrera",
+  "description": "Paquete de extensiones para facilitar el desarrollo con Laravel en Visual Studio Code.",
+  "version": "0.0.5",
+  "icon": "logo.png",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "absszero.vscode-laravel-goto",
+    "alexcvzz.vscode-sqlite",
+    "qwtel.sqlite-viewer",
+    "amiralizadeh9480.laravel-extra-intellisense",
+    "bmewburn.vscode-intelephense-client",
+    "codingyu.laravel-goto-view",
+    "damianbal.vs-phpclassgen",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "glitchbl.laravel-create-view",
+    "IHunte.laravel-blade-wrapper",
+    "marabesi.php-import-checker",
+    "MehediDracula.php-constructor",
+    "MehediDracula.php-namespace-resolver",
+    "mikestead.dotenv",
+    "onecentlin.laravel-blade",
+    "onecentlin.laravel5-snippets",
+    "rexshi.phpdoc-comment-vscode-plugin",
+    "ryannaddy.laravel-artisan",
+    "shufo.vscode-blade-formatter"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jbarreraballestas/laravel-extension-pack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jbarreraballestas/laravel-extension-pack/issues"
+  },
+  "homepage": "https://www.jhordybarrera.dev",
+  "keywords": [
+    "laravel",
+    "php",
+    "blade",
+    "artisan",
+    "vscode",
+    "extension-pack",
+    "desarrollo-web",
+    "jhordy"
+  ]
+}
