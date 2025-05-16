@@ -42,10 +42,6 @@ Este pack incluye las siguientes extensiones:
 - `ryannaddy.laravel-artisan`: Integración con comandos Artisan.
 - `shufo.vscode-blade-formatter`: Formateador de archivos Blade.
 
-## 📸 Capturas de pantalla
-
-*Aquí puedes incluir capturas de pantalla que muestren cómo estas extensiones mejoran tu flujo de trabajo en Laravel.*
-
 ## 📬 Contacto
 
 Desarrollado por [Jhordy Barrera](https://www.jhordybarrera.dev), desarrollador backend y administrador Linux apasionado por la informática y la tecnología.
